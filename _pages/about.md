@@ -2,18 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Associate Professor
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Room 2.07, <a href='https://www.um.es/web/dis/'>Department of Informatics and Systems</a></p>
-    <p><a href='https://www.um.es/web/informatica'>Faculty of Computer Science</a>, <a href='https://www.um.es/'>University of Murcia</a></p>
-    <p>Campus Universitario de Espinardo, 30100 Murcia (Spain)</p>
+    <p>Room 2.07, <a href='https://www.um.es/web/dis/'>Department of Informatics and Systems</a>, <a href='https://www.um.es/web/informatica'>Faculty of Computer Science</a>, <a href='https://www.um.es/'>University of Murcia</a>, Campus Universitario de Espinardo, 30100 Murcia (Spain)</p>
     <p>Phone: +34 868 88 4606</p>
-    <p>Mobile: +34 625 91 8558</p>
     <p>Fax: +34 868 88 4151</p>
 
 news: true  # includes a list of news items
