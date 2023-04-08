@@ -9,9 +9,12 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>Room 2.07</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 2.07, <a href='https://www.um.es/web/dis/'>Department of Informatics and Systems</a></p>
+    <p><a href='https://www.um.es/web/informatica'>Faculty of Computer Science</a>, <a href='https://www.um.es/'>University of Murcia</a></p>
+    <p>Campus Universitario de Espinardo, 30100 Murcia (Spain)</p>
+    <p>Phone: +34 868 88 4606</p>
+    <p>Mobile: +34 625 91 8558</p>
+    <p>Fax: +34 868 88 4151</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
